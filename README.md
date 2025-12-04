@@ -81,8 +81,8 @@ endmodule
 
 ~~~
 
- Developed by: Pugazh sozhan.A 
- RegisterNumber:24000166 
+ Developed by: ARAVIND P
+ RegisterNumber:212224240015
  
 **Logic symbol & Truthtable**
 
